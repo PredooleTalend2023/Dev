@@ -5,4 +5,5 @@
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_0LKhMjanEe6Cj8rYu3xd0g" login="PredooleAdmin@predoole.com" firstName="Predoole" lastName="Admin" type="DQ" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_3fDT0DanEe6Cj8rYu3xd0g" login="Predooleuser1@predoole.com" firstName="Predoole" lastName="User1" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_yBiTgDatEe6YHu4ifuKSJw" login="Predooleuser3@predoole.com" firstName="Predoole" lastName="user3" type="DQ" additionnalData="{}"/>
 </xmi:XMI>
