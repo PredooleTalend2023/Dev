@@ -1,6 +1,6 @@
 eclipse.preferences.version=1
 nexus.proxy.enable=true
-nexus.proxy.password=enc\:system.encryption.key.v1\:Yi6bzPCrjXY76SMySu0Cle/Pn6+Dh2lSch6LSvDqVXnJY+1QhB6yYC4\=
+nexus.proxy.password=enc\:system.encryption.key.v1\:4JUMkvBzgpQtZaZrawYeqvDGwtEZ/eqaWLgcXkVsT1Pb8hhSQBSYHAI\=
 nexus.proxy.repository.id=talend-test-jobs
 nexus.proxy.type=NEXUS_3
 nexus.proxy.url=http\://192.168.1.150\:8081/repository/talend-test-jobs/
